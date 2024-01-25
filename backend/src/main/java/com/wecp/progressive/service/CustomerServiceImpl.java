@@ -1,5 +1,6 @@
 package com.wecp.progressive.service;
 
+<<<<<<< HEAD
 
 import com.wecp.progressive.dao.CustomerDAO;
 import com.wecp.progressive.dao.CustomerDAOImpl;
@@ -66,4 +67,8 @@ public class CustomerServiceImpl implements CustomerService {
     @Override
     public void emptyArrayList() {
     }
+=======
+public class CustomerServiceImpl {
+
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
 }

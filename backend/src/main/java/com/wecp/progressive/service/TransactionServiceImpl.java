@@ -1,6 +1,7 @@
 package com.wecp.progressive.service;
 
 
+<<<<<<< HEAD
 import com.wecp.progressive.dao.TransactionDAO;
 import com.wecp.progressive.entity.Transactions;
 
@@ -44,4 +45,8 @@ public class TransactionServiceImpl implements TransactionService {
     public List<Transactions> getTransactionsByCustomerId(int customerId) throws SQLException{
         return null;
     }
+=======
+public class TransactionServiceImpl {
+    
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
 }

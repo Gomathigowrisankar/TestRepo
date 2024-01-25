@@ -1,6 +1,7 @@
 package com.wecp.progressive.entity;
 import java.util.Date;
 
+<<<<<<< HEAD
 public class Transactions {
 
     private int transactionId;
@@ -61,4 +62,10 @@ public class Transactions {
     public void setTransactionType(String transactionType) {
         this.transactionType = transactionType;
     }
+=======
+
+public class Transactions {
+
+
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
 }

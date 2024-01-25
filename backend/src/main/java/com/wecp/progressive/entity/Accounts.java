@@ -2,6 +2,7 @@ package com.wecp.progressive.entity;
 
 public class Accounts {
 
+<<<<<<< HEAD
     private int accountId;
     private int customerId;
     private double balance;
@@ -41,4 +42,6 @@ public class Accounts {
         this.balance = balance;
     }
 
+=======
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
 }

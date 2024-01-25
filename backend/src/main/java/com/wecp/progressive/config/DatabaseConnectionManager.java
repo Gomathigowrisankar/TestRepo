@@ -1,5 +1,6 @@
 package com.wecp.progressive.config;
 
+<<<<<<< HEAD
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
@@ -32,3 +33,10 @@ public class DatabaseConnectionManager {
         return DriverManager.getConnection(url, user, password);
     }
 }
+=======
+public class DatabaseConnectionManager {
+
+    // I am adding database connection
+
+}
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d

@@ -1,6 +1,7 @@
 package com.wecp.progressive.service;
 
 
+<<<<<<< HEAD
 import com.wecp.progressive.dao.AccountDAO;
 import com.wecp.progressive.entity.Accounts;
 
@@ -68,4 +69,9 @@ public class AccountServiceImpl implements AccountService {
     public List<Accounts> addAccountToArrayList(Accounts accounts) {
         return null;
     }
+=======
+
+public class AccountServiceImpl  {
+
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
 }

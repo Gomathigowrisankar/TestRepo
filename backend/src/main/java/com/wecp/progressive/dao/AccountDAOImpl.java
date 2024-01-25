@@ -1,5 +1,6 @@
 package com.wecp.progressive.dao;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -42,3 +43,8 @@ public class AccountDAOImpl implements AccountDAO{
     }
 
 }
+=======
+public class AccountDAOImpl {
+
+}
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d

@@ -1,5 +1,6 @@
 package com.wecp.progressive.dao;
 
+<<<<<<< HEAD
 import com.wecp.progressive.entity.Transactions;
 
 import java.util.ArrayList;
@@ -35,3 +36,11 @@ public class TransactionDAOImpl implements TransactionDAO{
     }
 
 }
+=======
+
+public class TransactionDAOImpl {
+
+
+
+}
+>>>>>>> a21dcac851fe5e4560c4b92396de391a156b1a2d
